@@ -1,4 +1,15 @@
 # Video Game Market Segmentation
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%20blue?style=plastic)
+![Machine_Learning](https://img.shields.io/badge/Machine%20Learning-%20blue?style=plastic)
+![Data_Science](https://img.shields.io/badge/Data%20Science-%20blue?style=plastic)
+![License](https://img.shields.io/badge/license%20-%20MIT%20-%20darkblue?style=plastic)
+![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-1.2.2-%20blue?style=plastic)
+![Pandas](https://img.shields.io/badge/Pandas-2.0.3-%20blue?style=plastic)
+![Numpy](https://img.shields.io/badge/Numpy-1.24.4-%20blue?style=plastic)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-%20blue?style=plastic)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-%20blue?style=plastic)
+![Build_Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 
 ## Introduction
 
@@ -8,10 +19,8 @@ This project focuses on market segmentation for video games using a dataset coll
 <p align="center">
   <img src="Famous-Video-Game-Logos.png" alt="Famous-Video-Game-Logos" width="500"/>
 </p>
-
-- The dataset used for this project is the Video Game Preferences and Habits dataset, which you can find on Kaggle.
-- It includes 222 records with various features related to video game preferences and habits.
-- You can access the dataset [here](https://www.kaggle.com/datasets/dataprofessor/video-gaming-preferences-and-habits).
+- The dataset used for this project is available directly in the repository.
+- This dataset contains 222 records of video game preferences and habits. 
 
 ## Column Names
 
