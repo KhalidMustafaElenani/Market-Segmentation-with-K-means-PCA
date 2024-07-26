@@ -3,7 +3,6 @@
 ![Machine_Learning](https://img.shields.io/badge/Machine%20Learning-%20blue?style=plastic)
 ![Data_Science](https://img.shields.io/badge/Data%20Science-%20blue?style=plastic)
 ![License](https://img.shields.io/badge/license%20-%20MIT%20-%20darkblue?style=plastic)
-![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-1.2.2-%20blue?style=plastic)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0.3-%20blue?style=plastic)
 ![Numpy](https://img.shields.io/badge/Numpy-1.24.4-%20blue?style=plastic)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-%20blue?style=plastic)
