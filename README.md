@@ -11,13 +11,13 @@
 ![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 
 ## Introduction
-
 This project focuses on market segmentation for video games using a dataset collected via Google Forms and QR codes. The goal is to segment users based on their gaming preferences and behaviors using machine learning techniques.
 
 ## Dataset
 <p align="center">
   <img src="Famous-Video-Game-Logos.png" alt="Famous-Video-Game-Logos" width="500"/>
 </p>
+
 - The dataset used for this project is available directly in the repository.
 - This dataset contains 222 records of video game preferences and habits. 
 
